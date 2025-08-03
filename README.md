@@ -13,7 +13,7 @@
 
 ---
 
-## 👀 About Me
+## About Me
 
 - 🔍 Interested in **Advanced research methodologies in economics**. .  
 - 🧾 Currently working on **standardizing Korea’s property tax base dataset** and supporting empirical analysis.  
@@ -22,26 +22,12 @@
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
-### 👨‍💻 Languages & Tools
+### Languages & Tools
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
-
-### 📚 Libraries
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=HuggingFace&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tidyverse-999999?style=flat-square&logo=R&logoColor=white"/>
-
-## 📂 Projects
-
-- 🧾 **[KILF-database](Undisclosable)** – Regional property tax base standardization (WIP)
-- 🛳️ **[Tariff-detour-effect-study](https://github.com/hunychang/Tariff-detour-effect-study)** – DD(Difference in Difference) regression analyzing Tariff detour effect
-- 🧠 **[NLP-korquad-project](https://github.com/hunychang/NLP-korquad-project)** – Sentiment classification & Simple QA model construction
-
-> 🛠 *These projects aim to combine public finance and NLP using Python, transformers, and statistical analysis.*
 
 ---
 

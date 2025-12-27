@@ -5,8 +5,8 @@
   
 # 👋 Hi, I'm Younghoon Chang
 
-🎓 **Incoming MS in Quantitative Economics at Boston University**  
-📊 **Research Assistant at the Korea Institute of Local Finance (KILF)**  
+🎓 **MS in Quantitative Economics at Boston University**  
+📊 **Research Assistant at Boston University**  
 🏫 **B.A. in Economics & Social Welfare, Seoul National University**
 
 </div>
@@ -16,8 +16,8 @@
 ## About Me
 
 - 🔍 Interested in **Advanced research methodologies in economics**. .  
-- 🧾 Currently working on **standardizing Korea’s property tax base dataset** and supporting empirical analysis.  
-- 💬 I have self-trained in **sentiment analysis, transformer-based classification** using HuggingFace and Scikit-learn.  
+- 🧾 Currently working on **THE SPATIAL DISTRIBUTION OF INCOME IN CITIES: NEW GLOBAL EVIDENCE AND THEORY** under Prof.Lagakos & Prof Miyauchi.  
+- 💬 I am also working on **Transmission of Monetary Policy Shocks to Lending Rates: Evidence Across Credit Portfolios in Emerging Economies** under guidance of Prof.Ramondo & Prof. Forneron.  
 - 🧠 Eager to contribute to research projects that connect real-world data with computational tools to extract economic meaning.
 
 ---
